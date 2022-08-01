@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MMGuideAssesment4/1.0.0": {
+        "runtime": {
+          "MMGuideAssesment4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MMGuideAssesment4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

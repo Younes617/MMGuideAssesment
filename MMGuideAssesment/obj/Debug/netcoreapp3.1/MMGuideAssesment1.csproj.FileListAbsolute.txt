@@ -1,0 +1,13 @@
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\bin\Debug\netcoreapp3.1\MMGuideAssesment1.exe
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\bin\Debug\netcoreapp3.1\MMGuideAssesment1.deps.json
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\bin\Debug\netcoreapp3.1\MMGuideAssesment1.runtimeconfig.json
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\bin\Debug\netcoreapp3.1\MMGuideAssesment1.runtimeconfig.dev.json
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\bin\Debug\netcoreapp3.1\MMGuideAssesment1.dll
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\bin\Debug\netcoreapp3.1\MMGuideAssesment1.pdb
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\obj\Debug\netcoreapp3.1\MMGuideAssesment1.csprojAssemblyReference.cache
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\obj\Debug\netcoreapp3.1\MMGuideAssesment1.csproj.CoreCompileInputs.cache
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\obj\Debug\netcoreapp3.1\MMGuideAssesment1.AssemblyInfoInputs.cache
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\obj\Debug\netcoreapp3.1\MMGuideAssesment1.AssemblyInfo.cs
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\obj\Debug\netcoreapp3.1\MMGuideAssesment1.dll
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\obj\Debug\netcoreapp3.1\MMGuideAssesment1.pdb
+C:\Younes_31-07-2022\MMGuide\MMGuideAssesment\MMGuideAssesment\obj\Debug\netcoreapp3.1\MMGuideAssesment1.genruntimeconfig.cache
